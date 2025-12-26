@@ -74,14 +74,6 @@ Works seamlessly on all devices:
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## 📄 License
-
-Educational project for DIU
-
-## 👨‍💻 Author
-
-Developed as a university project
-
 ---
 
 **Made with ❤️ for the Bengali freelancing community**
