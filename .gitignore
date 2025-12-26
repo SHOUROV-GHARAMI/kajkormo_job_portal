@@ -1,0 +1,83 @@
+# PHP
+*.log
+*.cache
+*.bak
+*.swp
+*.tmp
+
+# Configuration files (contains database credentials)
+config.php
+
+# Database
+*.sql
+*.sqlite
+*.db
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.phpintel/
+*.code-workspace
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# PHP Composer
+/vendor/
+composer.phar
+composer.lock
+
+# Logs
+*.log
+error_log
+php_errors.log
+
+# Temporary files
+tmp/
+temp/
+cache/
+
+# Upload directories (contains user uploaded files)
+files/*
+images/*
+!images/.gitkeep
+!files/.gitkeep
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Session files
+sessions/
+*.sess
+
+# Backup files
+*.backup
+*~
+*.orig
+
+# Node modules (if using any frontend build tools)
+node_modules/
+package-lock.json
+
+# Build files
+dist/
+build/
+
+# PHPUnit
+.phpunit.result.cache
+phpunit.xml
+
+# Coverage reports
+coverage/
+clover.xml
